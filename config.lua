@@ -112,6 +112,8 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
+		["rbcv11"] = "2011 Ford Crown Vic Police Interceptor",
+		["chgr14"] = "2014 Dodge Charger",
 	},
 	-- Grade 1
 	[1] = {
@@ -123,6 +125,8 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
+		["rbcv11"] = "2011 Ford Crown Vic Police Interceptor",
+		["chgr14"] = "2014 Dodge Charger",
 
 	},
 	-- Grade 2
@@ -135,6 +139,8 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
+		["rbcv11"] = "2011 Ford Crown Vic Police Interceptor",
+		["chgr14"] = "2014 Dodge Charger",
 	},
 	-- Grade 3
 	[3] = {
@@ -146,6 +152,8 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
+		["rbcv11"] = "2011 Ford Crown Vic Police Interceptor",
+		["chgr14"] = "2014 Dodge Charger",
 	},
 	-- Grade 4
 	[4] = {
@@ -157,6 +165,8 @@ Config.AuthorizedVehicles = {
 		["policet"] = "Police Car 6",
 		["sheriff"] = "Sheriff Car 1",
 		["sheriff2"] = "Sheriff Car 2",
+		["rbcv11"] = "2011 Ford Crown Vic Police Interceptor",
+		["chgr14"] = "2014 Dodge Charger",
 	}
 }
 
@@ -411,6 +421,7 @@ Config.VehicleSettings = {
             ["13"] = true,
         },
 		["livery"] = 1,
+        }
     },
     ["car2"] = {
         ["extras"] = {
@@ -429,5 +440,6 @@ Config.VehicleSettings = {
             ["13"] = true,
         },
 		["livery"] = 1,
+        }
     }
 }
