@@ -421,7 +421,7 @@ Config.VehicleSettings = {
             ["13"] = true,
         },
 		["livery"] = 1,
-        }
+        
     },
     ["car2"] = {
         ["extras"] = {
@@ -442,4 +442,4 @@ Config.VehicleSettings = {
 		["livery"] = 1,
         }
     }
-}
+
